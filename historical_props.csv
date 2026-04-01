@@ -1,0 +1,963 @@
+timestamp,player,prop_type,line_value,book,over_odds,under_odds
+2026-04-01T06:20:40Z,Jalen Johnson,Assists,7.5,draftkings,-109,-121
+2026-04-01T06:20:40Z,Jalen Suggs,Assists,5.5,draftkings,-122,-108
+2026-04-01T06:20:40Z,Dyson Daniels,Assists,5.5,draftkings,119,-158
+2026-04-01T06:20:40Z,Paolo Banchero,Assists,4.5,draftkings,-151,115
+2026-04-01T06:20:40Z,Desmond Bane,Assists,4.5,draftkings,122,-161
+2026-04-01T06:20:40Z,C.J. McCollum,Assists,3.5,draftkings,-117,-112
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Assists,3.5,draftkings,105,-138
+2026-04-01T06:20:40Z,Onyeka Okongwu,Assists,2.5,draftkings,-133,101
+2026-04-01T06:20:40Z,Paolo Banchero,Points,23.5,draftkings,-120,-106
+2026-04-01T06:20:40Z,Jalen Johnson,Points,23.5,draftkings,-104,-122
+2026-04-01T06:20:40Z,Desmond Bane,Points,20.5,draftkings,-111,-114
+2026-04-01T06:20:40Z,C.J. McCollum,Points,18.5,draftkings,-120,-106
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Points,18.5,draftkings,-119,-107
+2026-04-01T06:20:40Z,Jalen Suggs,Points,14.5,draftkings,-120,-106
+2026-04-01T06:20:40Z,Onyeka Okongwu,Points,13.5,draftkings,-126,-101
+2026-04-01T06:20:40Z,Dyson Daniels,Points,11.5,draftkings,-111,-115
+2026-04-01T06:20:40Z,Tristan da Silva,Points,10.5,draftkings,-123,-104
+2026-04-01T06:20:40Z,Wendell Carter Jr,Points,9.5,draftkings,-130,102
+2026-04-01T06:20:40Z,Jonathan Kuminga,Points,9.5,draftkings,-126,-101
+2026-04-01T06:20:40Z,Jock Landale,Points,8.5,draftkings,-113,-113
+2026-04-01T06:20:40Z,Jalen Johnson,Points Assists,30.5,draftkings,-122,-108
+2026-04-01T06:20:40Z,Paolo Banchero,Points Assists,29.5,draftkings,-106,-124
+2026-04-01T06:20:40Z,Desmond Bane,Points Assists,24.5,draftkings,-119,-110
+2026-04-01T06:20:40Z,C.J. McCollum,Points Assists,22.5,draftkings,-111,-118
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Points Assists,22.5,draftkings,-110,-120
+2026-04-01T06:20:40Z,Jalen Suggs,Points Assists,20.5,draftkings,-118,-111
+2026-04-01T06:20:40Z,Onyeka Okongwu,Points Assists,16.5,draftkings,-123,-107
+2026-04-01T06:20:40Z,Dyson Daniels,Points Assists,16.5,draftkings,-120,-109
+2026-04-01T06:20:40Z,Jalen Johnson,Points Rebounds,32.5,draftkings,-118,-111
+2026-04-01T06:20:40Z,Paolo Banchero,Points Rebounds,31.5,draftkings,-125,-106
+2026-04-01T06:20:40Z,Desmond Bane,Points Rebounds,24.5,draftkings,-118,-112
+2026-04-01T06:20:40Z,C.J. McCollum,Points Rebounds,21.5,draftkings,-127,-103
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Points Rebounds,21.5,draftkings,-125,-105
+2026-04-01T06:20:40Z,Onyeka Okongwu,Points Rebounds,21.5,draftkings,-106,-124
+2026-04-01T06:20:40Z,Jalen Suggs,Points Rebounds,18.5,draftkings,-127,-104
+2026-04-01T06:20:40Z,Wendell Carter Jr,Points Rebounds,17.5,draftkings,-124,-106
+2026-04-01T06:20:40Z,Dyson Daniels,Points Rebounds,17.5,draftkings,-123,-107
+2026-04-01T06:20:40Z,Tristan da Silva,Points Rebounds,14.5,draftkings,-125,-105
+2026-04-01T06:20:40Z,Jonathan Kuminga,Points Rebounds,14.5,draftkings,-119,-111
+2026-04-01T06:20:40Z,Jock Landale,Points Rebounds,13.5,draftkings,-110,-120
+2026-04-01T06:20:40Z,Jalen Johnson,Points Rebounds Assists,40.5,draftkings,-117,-112
+2026-04-01T06:20:40Z,Paolo Banchero,Points Rebounds Assists,37.5,draftkings,-112,-117
+2026-04-01T06:20:40Z,Desmond Bane,Points Rebounds Assists,29.5,draftkings,-105,-126
+2026-04-01T06:20:40Z,C.J. McCollum,Points Rebounds Assists,25.5,draftkings,-122,-108
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Points Rebounds Assists,25.5,draftkings,-115,-115
+2026-04-01T06:20:40Z,Jalen Suggs,Points Rebounds Assists,24.5,draftkings,-121,-109
+2026-04-01T06:20:40Z,Onyeka Okongwu,Points Rebounds Assists,24.5,draftkings,-105,-126
+2026-04-01T06:20:40Z,Dyson Daniels,Points Rebounds Assists,22.5,draftkings,-129,-102
+2026-04-01T06:20:40Z,Jalen Johnson,Rebounds,9.5,draftkings,-113,-117
+2026-04-01T06:20:40Z,Paolo Banchero,Rebounds,7.5,draftkings,-140,106
+2026-04-01T06:20:40Z,Wendell Carter Jr,Rebounds,7.5,draftkings,-126,-104
+2026-04-01T06:20:40Z,Onyeka Okongwu,Rebounds,7.5,draftkings,116,-153
+2026-04-01T06:20:40Z,Dyson Daniels,Rebounds,6.5,draftkings,114,-151
+2026-04-01T06:20:40Z,Jock Landale,Rebounds,4.5,draftkings,-121,-109
+2026-04-01T06:20:40Z,Jonathan Kuminga,Rebounds,4.5,draftkings,-112,-117
+2026-04-01T06:20:40Z,Desmond Bane,Rebounds,4.5,draftkings,126,-167
+2026-04-01T06:20:40Z,Jalen Suggs,Rebounds,3.5,draftkings,-157,119
+2026-04-01T06:20:40Z,Tristan da Silva,Rebounds,3.5,draftkings,-152,115
+2026-04-01T06:20:40Z,C.J. McCollum,Rebounds,3.5,draftkings,127,-167
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Rebounds,2.5,draftkings,-175,132
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Threes,2.5,draftkings,-170,129
+2026-04-01T06:20:40Z,C.J. McCollum,Threes,2.5,draftkings,-102,-130
+2026-04-01T06:20:40Z,Jalen Johnson,Threes,1.5,draftkings,-188,142
+2026-04-01T06:20:40Z,Desmond Bane,Threes,1.5,draftkings,-178,134
+2026-04-01T06:20:40Z,Jalen Suggs,Threes,1.5,draftkings,-158,120
+2026-04-01T06:20:40Z,Tristan da Silva,Threes,1.5,draftkings,-115,-115
+2026-04-01T06:20:40Z,Onyeka Okongwu,Assists,2.5,fanduel,-140,106
+2026-04-01T06:20:40Z,Dyson Daniels,Assists,4.5,fanduel,-162,122
+2026-04-01T06:20:40Z,Desmond Bane,Assists,4.5,fanduel,128,-172
+2026-04-01T06:20:40Z,C.J. McCollum,Assists,3.5,fanduel,-132,100
+2026-04-01T06:20:40Z,Jalen Suggs,Assists,5.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Jalen Johnson,Assists,7.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Paolo Banchero,Assists,5.5,fanduel,126,-168
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Assists,3.5,fanduel,104,-138
+2026-04-01T06:20:40Z,C.J. McCollum,Points,18.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Tristan da Silva,Points,10.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Dyson Daniels,Points,11.5,fanduel,102,-136
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Points,18.5,fanduel,-132,100
+2026-04-01T06:20:40Z,Wendell Carter Jr,Points,10.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Jalen Johnson,Points,22.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Onyeka Okongwu,Points,13.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Desmond Bane,Points,20.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Paolo Banchero,Points,23.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Jalen Suggs,Points,15.5,fanduel,102,-136
+2026-04-01T06:20:40Z,Jonathan Kuminga,Points,9.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,Jock Landale,Points,8.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Onyeka Okongwu,Points Assists,16.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Desmond Bane,Points Assists,25.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Jalen Johnson,Points Assists,31.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Paolo Banchero,Points Assists,28.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Jalen Suggs,Points Assists,20.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,C.J. McCollum,Points Assists,22.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Dyson Daniels,Points Assists,16.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Points Assists,22.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Points Rebounds,22.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Jalen Suggs,Points Rebounds,19.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Dyson Daniels,Points Rebounds,17.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Tristan da Silva,Points Rebounds,14.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Desmond Bane,Points Rebounds,24.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Onyeka Okongwu,Points Rebounds,21.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Wendell Carter Jr,Points Rebounds,18.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,C.J. McCollum,Points Rebounds,21.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Paolo Banchero,Points Rebounds,31.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Jalen Johnson,Points Rebounds,32.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Jonathan Kuminga,Points Rebounds,14.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Jock Landale,Points Rebounds,12.5,fanduel,-132,100
+2026-04-01T06:20:40Z,Onyeka Okongwu,Points Rebounds Assists,24.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Points Rebounds Assists,25.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Desmond Bane,Points Rebounds Assists,29.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Jalen Suggs,Points Rebounds Assists,25.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,C.J. McCollum,Points Rebounds Assists,25.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Jalen Johnson,Points Rebounds Assists,40.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Paolo Banchero,Points Rebounds Assists,37.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Dyson Daniels,Points Rebounds Assists,22.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Wendell Carter Jr,Rebounds,7.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Jalen Johnson,Rebounds,9.5,fanduel,106,-140
+2026-04-01T06:20:40Z,Onyeka Okongwu,Rebounds,7.5,fanduel,110,-146
+2026-04-01T06:20:40Z,Paolo Banchero,Rebounds,8.5,fanduel,104,-138
+2026-04-01T06:20:40Z,Jalen Suggs,Rebounds,4.5,fanduel,122,-162
+2026-04-01T06:20:40Z,Dyson Daniels,Rebounds,6.5,fanduel,118,-158
+2026-04-01T06:20:40Z,Desmond Bane,Rebounds,3.5,fanduel,-172,128
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Rebounds,3.5,fanduel,130,-174
+2026-04-01T06:20:40Z,C.J. McCollum,Rebounds,3.5,fanduel,134,-180
+2026-04-01T06:20:40Z,Tristan da Silva,Rebounds,3.5,fanduel,-158,118
+2026-04-01T06:20:40Z,Jonathan Kuminga,Rebounds,4.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Jock Landale,Rebounds,4.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Jalen Suggs,Steals,1.5,fanduel,110,-146
+2026-04-01T06:20:40Z,Dyson Daniels,Steals,1.5,fanduel,-154,116
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Steals,1.5,fanduel,178,-245
+2026-04-01T06:20:40Z,Jalen Johnson,Steals,1.5,fanduel,194,-270
+2026-04-01T06:20:40Z,Desmond Bane,Steals,0.5,fanduel,-225,164
+2026-04-01T06:20:40Z,Jalen Suggs,Threes,1.5,fanduel,-180,134
+2026-04-01T06:20:40Z,Onyeka Okongwu,Threes,1.5,fanduel,-158,118
+2026-04-01T06:20:40Z,Nickeil Alexander-Walker,Threes,2.5,fanduel,-186,138
+2026-04-01T06:20:40Z,C.J. McCollum,Threes,2.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Jalen Johnson,Threes,1.5,fanduel,-200,148
+2026-04-01T06:20:40Z,Tristan da Silva,Threes,1.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Paolo Banchero,Threes,1.5,fanduel,194,-270
+2026-04-01T06:20:40Z,Desmond Bane,Threes,1.5,fanduel,-188,140
+2026-04-01T06:20:40Z,VJ Edgecombe,Assists,3.5,fanduel,-152,114
+2026-04-01T06:20:40Z,Kelly Oubre Jr,Assists,1.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Tyrese Maxey,Assists,7.5,fanduel,120,-160
+2026-04-01T06:20:40Z,Carlton Carrington,Assists,5.5,fanduel,110,-146
+2026-04-01T06:20:40Z,Quentin Grimes,Assists,3.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Paul George,Assists,3.5,fanduel,-172,128
+2026-04-01T06:20:40Z,Joel Embiid,Assists,4.5,fanduel,108,-144
+2026-04-01T06:20:40Z,VJ Edgecombe,Points,14.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Kelly Oubre Jr,Points,11.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Carlton Carrington,Points,11.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Tyrese Maxey,Points,25.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Will Riley,Points,13.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Joel Embiid,Points,28.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Paul George,Points,17.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Dominick Barlow,Points,5.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Quentin Grimes,Points,12.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Bilal Coulibaly,Points,12.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Tre Johnson,Points,12.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Alex Sarr,Points,12.5,fanduel,-132,100
+2026-04-01T06:20:40Z,Paul George,Points Assists,21.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Tre Johnson,Points Assists,14.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Bilal Coulibaly,Points Assists,14.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Tyrese Maxey,Points Assists,32.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Kelly Oubre Jr,Points Assists,13.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Quentin Grimes,Points Assists,15.5,fanduel,-118,-110
+2026-04-01T06:20:40Z,Joel Embiid,Points Assists,32.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,VJ Edgecombe,Points Assists,18.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Carlton Carrington,Points Assists,16.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Dominick Barlow,Points Rebounds,10.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Joel Embiid,Points Rebounds,37.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,VJ Edgecombe,Points Rebounds,20.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Tyrese Maxey,Points Rebounds,29.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Carlton Carrington,Points Rebounds,14.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Bilal Coulibaly,Points Rebounds,16.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Quentin Grimes,Points Rebounds,16.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Paul George,Points Rebounds,23.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Tre Johnson,Points Rebounds,15.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Kelly Oubre Jr,Points Rebounds,16.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Alex Sarr,Points Rebounds,18.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,VJ Edgecombe,Points Rebounds Assists,24.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Kelly Oubre Jr,Points Rebounds Assists,18.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Quentin Grimes,Points Rebounds Assists,19.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Tyrese Maxey,Points Rebounds Assists,37.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Joel Embiid,Points Rebounds Assists,41.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Paul George,Points Rebounds Assists,27.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Bilal Coulibaly,Points Rebounds Assists,18.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Tre Johnson,Points Rebounds Assists,17.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Carlton Carrington,Points Rebounds Assists,20.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Dominick Barlow,Rebounds,4.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Paul George,Rebounds,6.5,fanduel,118,-158
+2026-04-01T06:20:40Z,Alex Sarr,Rebounds,5.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Quentin Grimes,Rebounds,3.5,fanduel,-144,108
+2026-04-01T06:20:40Z,Kelly Oubre Jr,Rebounds,5.5,fanduel,122,-162
+2026-04-01T06:20:40Z,Joel Embiid,Rebounds,8.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,Tyrese Maxey,Rebounds,4.5,fanduel,134,-180
+2026-04-01T06:20:40Z,VJ Edgecombe,Rebounds,5.5,fanduel,-138,104
+2026-04-01T06:20:40Z,Paul George,Steals,1.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Tyrese Maxey,Steals,1.5,fanduel,-138,104
+2026-04-01T06:20:40Z,Kelly Oubre Jr,Threes,1.5,fanduel,132,-178
+2026-04-01T06:20:40Z,Carlton Carrington,Threes,1.5,fanduel,-146,110
+2026-04-01T06:20:40Z,Quentin Grimes,Threes,1.5,fanduel,114,-152
+2026-04-01T06:20:40Z,VJ Edgecombe,Threes,1.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Joel Embiid,Threes,1.5,fanduel,106,-140
+2026-04-01T06:20:40Z,Bilal Coulibaly,Threes,1.5,fanduel,194,-270
+2026-04-01T06:20:40Z,Tre Johnson,Threes,1.5,fanduel,-154,116
+2026-04-01T06:20:40Z,Tyrese Maxey,Threes,2.5,fanduel,-180,132
+2026-04-01T06:20:40Z,Will Riley,Threes,1.5,fanduel,118,-158
+2026-04-01T06:20:40Z,Paul George,Threes,2.5,fanduel,-138,104
+2026-04-01T06:20:40Z,Tyrese Maxey,Assists,7.5,draftkings,111,-146
+2026-04-01T06:20:40Z,Carlton Carrington,Assists,4.5,draftkings,-156,118
+2026-04-01T06:20:40Z,Joel Embiid,Assists,4.5,draftkings,108,-143
+2026-04-01T06:20:40Z,Paul George,Assists,4.5,draftkings,109,-144
+2026-04-01T06:20:40Z,VJ Edgecombe,Assists,4.5,draftkings,124,-164
+2026-04-01T06:20:40Z,Quentin Grimes,Assists,3.5,draftkings,-101,-131
+2026-04-01T06:20:40Z,Bilal Coulibaly,Assists,2.5,draftkings,-117,-112
+2026-04-01T06:20:40Z,Alex Sarr,Assists,2.5,draftkings,-101,-130
+2026-04-01T06:20:40Z,Tre Johnson,Assists,2.5,draftkings,131,-173
+2026-04-01T06:20:40Z,Kelly Oubre Jr,Assists,1.5,draftkings,-113,-117
+2026-04-01T06:20:40Z,Joel Embiid,Points,27.5,draftkings,-117,-109
+2026-04-01T06:20:40Z,Tyrese Maxey,Points,25.5,draftkings,-118,-108
+2026-04-01T06:20:40Z,Paul George,Points,16.5,draftkings,-126,-101
+2026-04-01T06:20:40Z,VJ Edgecombe,Points,14.5,draftkings,-115,-111
+2026-04-01T06:20:40Z,Will Riley,Points,13.5,draftkings,-125,-102
+2026-04-01T06:20:40Z,Alex Sarr,Points,13.5,draftkings,-112,-114
+2026-04-01T06:20:40Z,Tre Johnson,Points,12.5,draftkings,-122,-104
+2026-04-01T06:20:40Z,Bilal Coulibaly,Points,12.5,draftkings,-108,-118
+2026-04-01T06:20:40Z,Quentin Grimes,Points,12.5,draftkings,-101,-126
+2026-04-01T06:20:40Z,Kelly Oubre Jr,Points,11.5,draftkings,-111,-115
+2026-04-01T06:20:40Z,Carlton Carrington,Points,11.5,draftkings,-104,-122
+2026-04-01T06:20:40Z,Dominick Barlow,Points,5.5,draftkings,-136,107
+2026-04-01T06:20:40Z,Tyrese Maxey,Points Assists,33.5,draftkings,-108,-121
+2026-04-01T06:20:40Z,Joel Embiid,Points Assists,32.5,draftkings,-108,-121
+2026-04-01T06:20:40Z,Paul George,Points Assists,21.5,draftkings,-111,-119
+2026-04-01T06:20:40Z,VJ Edgecombe,Points Assists,18.5,draftkings,-123,-107
+2026-04-01T06:20:40Z,Carlton Carrington,Points Assists,16.5,draftkings,-114,-115
+2026-04-01T06:20:40Z,Alex Sarr,Points Assists,16.5,draftkings,-102,-129
+2026-04-01T06:20:40Z,Quentin Grimes,Points Assists,15.5,draftkings,-115,-114
+2026-04-01T06:20:40Z,Bilal Coulibaly,Points Assists,15.5,draftkings,-107,-123
+2026-04-01T06:20:40Z,Tre Johnson,Points Assists,15.5,draftkings,-105,-126
+2026-04-01T06:20:40Z,Kelly Oubre Jr,Points Assists,13.5,draftkings,-105,-126
+2026-04-01T06:20:40Z,Dominick Barlow,Points Assists,6.5,draftkings,-129,-102
+2026-04-01T06:20:40Z,Joel Embiid,Points Rebounds,36.5,draftkings,-114,-116
+2026-04-01T06:20:40Z,Tyrese Maxey,Points Rebounds,29.5,draftkings,-123,-107
+2026-04-01T06:20:40Z,Paul George,Points Rebounds,23.5,draftkings,-105,-125
+2026-04-01T06:20:40Z,VJ Edgecombe,Points Rebounds,20.5,draftkings,-114,-115
+2026-04-01T06:20:40Z,Alex Sarr,Points Rebounds,19.5,draftkings,-108,-122
+2026-04-01T06:20:40Z,Kelly Oubre Jr,Points Rebounds,16.5,draftkings,-123,-107
+2026-04-01T06:20:40Z,Bilal Coulibaly,Points Rebounds,16.5,draftkings,-116,-114
+2026-04-01T06:20:40Z,Quentin Grimes,Points Rebounds,15.5,draftkings,-127,-104
+2026-04-01T06:20:40Z,Tre Johnson,Points Rebounds,15.5,draftkings,-119,-110
+2026-04-01T06:20:40Z,Carlton Carrington,Points Rebounds,14.5,draftkings,-112,-117
+2026-04-01T06:20:40Z,Dominick Barlow,Points Rebounds,10.5,draftkings,-114,-115
+2026-04-01T06:20:40Z,Joel Embiid,Points Rebounds Assists,40.5,draftkings,-123,-107
+2026-04-01T06:20:40Z,Tyrese Maxey,Points Rebounds Assists,37.5,draftkings,-109,-121
+2026-04-01T06:20:40Z,Paul George,Points Rebounds Assists,27.5,draftkings,-114,-116
+2026-04-01T06:20:40Z,VJ Edgecombe,Points Rebounds Assists,24.5,draftkings,-120,-110
+2026-04-01T06:20:40Z,Alex Sarr,Points Rebounds Assists,21.5,draftkings,-121,-109
+2026-04-01T06:20:40Z,Carlton Carrington,Points Rebounds Assists,19.5,draftkings,-118,-111
+2026-04-01T06:20:40Z,Quentin Grimes,Points Rebounds Assists,19.5,draftkings,-114,-115
+2026-04-01T06:20:40Z,Bilal Coulibaly,Points Rebounds Assists,19.5,draftkings,-112,-118
+2026-04-01T06:20:40Z,Tre Johnson,Points Rebounds Assists,18.5,draftkings,-103,-128
+2026-04-01T06:20:40Z,Joel Embiid,Rebounds,8.5,draftkings,-118,-112
+2026-04-01T06:20:40Z,Paul George,Rebounds,5.5,draftkings,-136,103
+2026-04-01T06:20:40Z,VJ Edgecombe,Rebounds,5.5,draftkings,-126,-104
+2026-04-01T06:20:40Z,Alex Sarr,Rebounds,5.5,draftkings,-123,-107
+2026-04-01T06:20:40Z,Kelly Oubre Jr,Rebounds,5.5,draftkings,115,-151
+2026-04-01T06:20:40Z,Dominick Barlow,Rebounds,4.5,draftkings,-108,-122
+2026-04-01T06:20:40Z,Bilal Coulibaly,Rebounds,3.5,draftkings,-164,124
+2026-04-01T06:20:40Z,Tyrese Maxey,Rebounds,3.5,draftkings,-159,120
+2026-04-01T06:20:40Z,Quentin Grimes,Rebounds,3.5,draftkings,-123,-107
+2026-04-01T06:20:40Z,Carlton Carrington,Rebounds,3.5,draftkings,126,-166
+2026-04-01T06:20:40Z,Tre Johnson,Rebounds,2.5,draftkings,-131,-101
+2026-04-01T06:20:40Z,Tyrese Maxey,Threes,2.5,draftkings,-167,126
+2026-04-01T06:20:40Z,Paul George,Threes,2.5,draftkings,-118,-111
+2026-04-01T06:20:40Z,Tre Johnson,Threes,1.5,draftkings,-172,130
+2026-04-01T06:20:40Z,Carlton Carrington,Threes,1.5,draftkings,-158,120
+2026-04-01T06:20:40Z,VJ Edgecombe,Threes,1.5,draftkings,-103,-127
+2026-04-01T06:20:40Z,Joel Embiid,Threes,1.5,draftkings,113,-149
+2026-04-01T06:20:40Z,Will Riley,Threes,1.5,draftkings,120,-158
+2026-04-01T06:20:40Z,Quentin Grimes,Threes,1.5,draftkings,139,-184
+2026-04-01T06:20:40Z,Bilal Coulibaly,Threes,1.5,draftkings,158,-211
+2026-04-01T06:20:40Z,Kelly Oubre Jr,Threes,1.5,draftkings,164,-219
+2026-04-01T06:20:40Z,Alex Sarr,Threes,0.5,draftkings,-235,176
+2026-04-01T06:20:40Z,Jaylen Brown,Assists,5.5,fanduel,114,-152
+2026-04-01T06:20:40Z,Jaime Jaquez Jr,Assists,4.5,fanduel,114,-152
+2026-04-01T06:20:40Z,Pelle Larsson,Assists,3.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Payton Pritchard,Assists,4.5,fanduel,-158,118
+2026-04-01T06:20:40Z,Bam Adebayo,Assists,3.5,fanduel,124,-166
+2026-04-01T06:20:40Z,Andrew Wiggins,Assists,2.5,fanduel,130,-174
+2026-04-01T06:20:40Z,Derrick White,Assists,4.5,fanduel,-162,122
+2026-04-01T06:20:40Z,Jayson Tatum,Assists,4.5,fanduel,-166,124
+2026-04-01T06:20:40Z,Davion Mitchell,Assists,5.5,fanduel,-140,106
+2026-04-01T06:20:40Z,Tyler Herro,Assists,3.5,fanduel,-158,118
+2026-04-01T06:20:40Z,Derrick White,Blocks,1.5,fanduel,178,-245
+2026-04-01T06:20:40Z,Neemias Queta,Blocks,1.5,fanduel,194,-270
+2026-04-01T06:20:40Z,Jayson Tatum,Points,22.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Sam Hauser,Points,8.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Andrew Wiggins,Points,14.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Baylor Scheierman,Points,5.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Davion Mitchell,Points,9.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Tyler Herro,Points,22.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Neemias Queta,Points,9.5,fanduel,-136,102
+2026-04-01T06:20:40Z,Payton Pritchard,Points,16.5,fanduel,102,-136
+2026-04-01T06:20:40Z,Bam Adebayo,Points,19.5,fanduel,-128,-102
+2026-04-01T06:20:40Z,Derrick White,Points,16.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Jaylen Brown,Points,27.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Pelle Larsson,Points,12.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Jaime Jaquez Jr,Points,13.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Bam Adebayo,Points Assists,23.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Jayson Tatum,Points Assists,27.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Payton Pritchard,Points Assists,21.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Jaime Jaquez Jr,Points Assists,18.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Tyler Herro,Points Assists,27.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Jaylen Brown,Points Assists,32.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Andrew Wiggins,Points Assists,16.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Derrick White,Points Assists,21.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Pelle Larsson,Points Assists,16.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Davion Mitchell,Points Assists,15.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Payton Pritchard,Points Rebounds,19.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,Jaylen Brown,Points Rebounds,34.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,Jaime Jaquez Jr,Points Rebounds,18.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Sam Hauser,Points Rebounds,11.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,Andrew Wiggins,Points Rebounds,19.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Baylor Scheierman,Points Rebounds,9.5,fanduel,-136,102
+2026-04-01T06:20:40Z,Pelle Larsson,Points Rebounds,16.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Derrick White,Points Rebounds,20.5,fanduel,-122,-106
+2026-04-01T06:20:40Z,Bam Adebayo,Points Rebounds,30.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Jayson Tatum,Points Rebounds,31.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Neemias Queta,Points Rebounds,19.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Davion Mitchell,Points Rebounds,12.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Tyler Herro,Points Rebounds,27.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Derrick White,Points Rebounds Assists,25.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,Bam Adebayo,Points Rebounds Assists,33.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Jaylen Brown,Points Rebounds Assists,40.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Neemias Queta,Points Rebounds Assists,20.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Jayson Tatum,Points Rebounds Assists,36.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Tyler Herro,Points Rebounds Assists,31.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Andrew Wiggins,Points Rebounds Assists,21.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Jaime Jaquez Jr,Points Rebounds Assists,23.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Pelle Larsson,Points Rebounds Assists,20.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Payton Pritchard,Points Rebounds Assists,25.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Davion Mitchell,Points Rebounds Assists,18.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Andrew Wiggins,Rebounds,4.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Bam Adebayo,Rebounds,10.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Sam Hauser,Rebounds,3.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Jaylen Brown,Rebounds,7.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Jayson Tatum,Rebounds,8.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Tyler Herro,Rebounds,4.5,fanduel,102,-136
+2026-04-01T06:20:40Z,Jaime Jaquez Jr,Rebounds,4.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Derrick White,Rebounds,4.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Davion Mitchell,Rebounds,2.5,fanduel,-146,110
+2026-04-01T06:20:40Z,Pelle Larsson,Rebounds,4.5,fanduel,108,-144
+2026-04-01T06:20:40Z,Payton Pritchard,Rebounds,3.5,fanduel,-144,108
+2026-04-01T06:20:40Z,Neemias Queta,Rebounds,9.5,fanduel,110,-146
+2026-04-01T06:20:40Z,Baylor Scheierman,Rebounds,4.5,fanduel,130,-174
+2026-04-01T06:20:40Z,Derrick White,Steals,1.5,fanduel,188,-260
+2026-04-01T06:20:40Z,Bam Adebayo,Steals,1.5,fanduel,152,-205
+2026-04-01T06:20:40Z,Tyler Herro,Threes,2.5,fanduel,-158,118
+2026-04-01T06:20:40Z,Derrick White,Threes,2.5,fanduel,-152,114
+2026-04-01T06:20:40Z,Bam Adebayo,Threes,1.5,fanduel,-154,116
+2026-04-01T06:20:40Z,Davion Mitchell,Threes,1.5,fanduel,118,-158
+2026-04-01T06:20:40Z,Jayson Tatum,Threes,2.5,fanduel,-154,116
+2026-04-01T06:20:40Z,Sam Hauser,Threes,2.5,fanduel,112,-148
+2026-04-01T06:20:40Z,Baylor Scheierman,Threes,1.5,fanduel,152,-205
+2026-04-01T06:20:40Z,Payton Pritchard,Threes,2.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Jaylen Brown,Threes,1.5,fanduel,-160,120
+2026-04-01T06:20:40Z,Andrew Wiggins,Threes,2.5,fanduel,162,-220
+2026-04-01T06:20:40Z,Pelle Larsson,Threes,0.5,fanduel,-245,178
+2026-04-01T06:20:40Z,Davion Mitchell,Assists,5.5,draftkings,-128,-103
+2026-04-01T06:20:40Z,Jaylen Brown,Assists,5.5,draftkings,119,-157
+2026-04-01T06:20:40Z,Derrick White,Assists,4.5,draftkings,-157,119
+2026-04-01T06:20:40Z,Payton Pritchard,Assists,4.5,draftkings,-153,116
+2026-04-01T06:20:40Z,Jayson Tatum,Assists,4.5,draftkings,-142,108
+2026-04-01T06:20:40Z,Jaime Jaquez Jr,Assists,4.5,draftkings,119,-157
+2026-04-01T06:20:40Z,Tyler Herro,Assists,3.5,draftkings,-141,107
+2026-04-01T06:20:40Z,Pelle Larsson,Assists,3.5,draftkings,-107,-123
+2026-04-01T06:20:40Z,Bam Adebayo,Assists,3.5,draftkings,127,-168
+2026-04-01T06:20:40Z,Andrew Wiggins,Assists,2.5,draftkings,131,-173
+2026-04-01T06:20:40Z,Neemias Queta,Assists,1.5,draftkings,-164,124
+2026-04-01T06:20:40Z,Jaylen Brown,Points,26.5,draftkings,-123,-104
+2026-04-01T06:20:40Z,Tyler Herro,Points,22.5,draftkings,-116,-110
+2026-04-01T06:20:40Z,Jayson Tatum,Points,22.5,draftkings,-110,-116
+2026-04-01T06:20:40Z,Bam Adebayo,Points,19.5,draftkings,-122,-104
+2026-04-01T06:20:40Z,Derrick White,Points,16.5,draftkings,-108,-118
+2026-04-01T06:20:40Z,Payton Pritchard,Points,15.5,draftkings,-126,-101
+2026-04-01T06:20:40Z,Andrew Wiggins,Points,14.5,draftkings,-102,-125
+2026-04-01T06:20:40Z,Jaime Jaquez Jr,Points,13.5,draftkings,-102,-125
+2026-04-01T06:20:40Z,Pelle Larsson,Points,11.5,draftkings,-124,-103
+2026-04-01T06:20:40Z,Neemias Queta,Points,9.5,draftkings,-117,-109
+2026-04-01T06:20:40Z,Davion Mitchell,Points,9.5,draftkings,103,-131
+2026-04-01T06:20:40Z,Sam Hauser,Points,8.5,draftkings,-118,-108
+2026-04-01T06:20:40Z,Baylor Scheierman,Points,5.5,draftkings,-130,102
+2026-04-01T06:20:40Z,Jaylen Brown,Points Assists,32.5,draftkings,-109,-120
+2026-04-01T06:20:40Z,Jayson Tatum,Points Assists,27.5,draftkings,-110,-120
+2026-04-01T06:20:40Z,Tyler Herro,Points Assists,26.5,draftkings,-119,-110
+2026-04-01T06:20:40Z,Bam Adebayo,Points Assists,23.5,draftkings,-107,-123
+2026-04-01T06:20:40Z,Derrick White,Points Assists,21.5,draftkings,-114,-116
+2026-04-01T06:20:40Z,Payton Pritchard,Points Assists,21.5,draftkings,-109,-120
+2026-04-01T06:20:40Z,Jaime Jaquez Jr,Points Assists,17.5,draftkings,-114,-115
+2026-04-01T06:20:40Z,Andrew Wiggins,Points Assists,16.5,draftkings,-113,-116
+2026-04-01T06:20:40Z,Pelle Larsson,Points Assists,15.5,draftkings,-115,-115
+2026-04-01T06:20:40Z,Davion Mitchell,Points Assists,14.5,draftkings,-129,-102
+2026-04-01T06:20:40Z,Neemias Queta,Points Assists,11.5,draftkings,-116,-113
+2026-04-01T06:20:40Z,Jaylen Brown,Points Rebounds,34.5,draftkings,-108,-121
+2026-04-01T06:20:40Z,Jayson Tatum,Points Rebounds,30.5,draftkings,-124,-106
+2026-04-01T06:20:40Z,Bam Adebayo,Points Rebounds,30.5,draftkings,-118,-111
+2026-04-01T06:20:40Z,Tyler Herro,Points Rebounds,27.5,draftkings,-111,-119
+2026-04-01T06:20:40Z,Derrick White,Points Rebounds,20.5,draftkings,-127,-104
+2026-04-01T06:20:40Z,Payton Pritchard,Points Rebounds,19.5,draftkings,-122,-107
+2026-04-01T06:20:40Z,Andrew Wiggins,Points Rebounds,19.5,draftkings,-112,-117
+2026-04-01T06:20:40Z,Neemias Queta,Points Rebounds,18.5,draftkings,-129,-102
+2026-04-01T06:20:40Z,Jaime Jaquez Jr,Points Rebounds,18.5,draftkings,-110,-119
+2026-04-01T06:20:40Z,Pelle Larsson,Points Rebounds,16.5,draftkings,-113,-117
+2026-04-01T06:20:40Z,Sam Hauser,Points Rebounds,12.5,draftkings,-104,-127
+2026-04-01T06:20:40Z,Davion Mitchell,Points Rebounds,12.5,draftkings,-102,-129
+2026-04-01T06:20:40Z,Baylor Scheierman,Points Rebounds,10.5,draftkings,-109,-121
+2026-04-01T06:20:40Z,Jaylen Brown,Points Rebounds Assists,39.5,draftkings,-113,-116
+2026-04-01T06:20:40Z,Jayson Tatum,Points Rebounds Assists,36.5,draftkings,-107,-123
+2026-04-01T06:20:40Z,Bam Adebayo,Points Rebounds Assists,33.5,draftkings,-124,-107
+2026-04-01T06:20:40Z,Tyler Herro,Points Rebounds Assists,31.5,draftkings,-112,-118
+2026-04-01T06:20:40Z,Derrick White,Points Rebounds Assists,26.5,draftkings,-107,-123
+2026-04-01T06:20:40Z,Payton Pritchard,Points Rebounds Assists,24.5,draftkings,-126,-104
+2026-04-01T06:20:40Z,Jaime Jaquez Jr,Points Rebounds Assists,22.5,draftkings,-113,-116
+2026-04-01T06:20:40Z,Andrew Wiggins,Points Rebounds Assists,21.5,draftkings,-115,-114
+2026-04-01T06:20:40Z,Neemias Queta,Points Rebounds Assists,20.5,draftkings,-128,-103
+2026-04-01T06:20:40Z,Pelle Larsson,Points Rebounds Assists,19.5,draftkings,-129,-102
+2026-04-01T06:20:40Z,Davion Mitchell,Points Rebounds Assists,17.5,draftkings,-130,-101
+2026-04-01T06:20:40Z,Bam Adebayo,Rebounds,10.5,draftkings,-119,-111
+2026-04-01T06:20:40Z,Neemias Queta,Rebounds,9.5,draftkings,-101,-131
+2026-04-01T06:20:40Z,Jayson Tatum,Rebounds,8.5,draftkings,-106,-124
+2026-04-01T06:20:40Z,Jaylen Brown,Rebounds,6.5,draftkings,-142,108
+2026-04-01T06:20:40Z,Andrew Wiggins,Rebounds,4.5,draftkings,-149,113
+2026-04-01T06:20:40Z,Jaime Jaquez Jr,Rebounds,4.5,draftkings,-142,108
+2026-04-01T06:20:40Z,Derrick White,Rebounds,4.5,draftkings,-113,-117
+2026-04-01T06:20:40Z,Pelle Larsson,Rebounds,4.5,draftkings,-102,-128
+2026-04-01T06:20:40Z,Tyler Herro,Rebounds,4.5,draftkings,-102,-129
+2026-04-01T06:20:40Z,Baylor Scheierman,Rebounds,4.5,draftkings,112,-147
+2026-04-01T06:20:40Z,Payton Pritchard,Rebounds,3.5,draftkings,-125,-106
+2026-04-01T06:20:40Z,Sam Hauser,Rebounds,3.5,draftkings,-111,-119
+2026-04-01T06:20:40Z,Davion Mitchell,Rebounds,2.5,draftkings,-158,120
+2026-04-01T06:20:40Z,Jayson Tatum,Threes,3.5,draftkings,133,-176
+2026-04-01T06:20:40Z,Derrick White,Threes,2.5,draftkings,-161,122
+2026-04-01T06:20:40Z,Tyler Herro,Threes,2.5,draftkings,-157,119
+2026-04-01T06:20:40Z,Payton Pritchard,Threes,2.5,draftkings,-131,100
+2026-04-01T06:20:40Z,Sam Hauser,Threes,2.5,draftkings,104,-136
+2026-04-01T06:20:40Z,Andrew Wiggins,Threes,1.5,draftkings,-194,146
+2026-04-01T06:20:40Z,Bam Adebayo,Threes,1.5,draftkings,-167,126
+2026-04-01T06:20:40Z,Jaylen Brown,Threes,1.5,draftkings,-146,111
+2026-04-01T06:20:40Z,Davion Mitchell,Threes,1.5,draftkings,120,-158
+2026-04-01T06:20:40Z,Baylor Scheierman,Threes,1.5,draftkings,147,-195
+2026-04-01T06:20:40Z,Pelle Larsson,Threes,0.5,draftkings,-231,173
+2026-04-01T06:20:40Z,Ousmane Dieng,Assists,3.5,fanduel,106,-140
+2026-04-01T06:20:40Z,Kevin Durant,Assists,4.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Reed Sheppard,Assists,3.5,fanduel,-140,106
+2026-04-01T06:20:40Z,Amen Thompson,Assists,5.5,fanduel,128,-172
+2026-04-01T06:20:40Z,Kyle Kuzma,Assists,2.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,Alperen Sengun,Assists,5.5,fanduel,-146,110
+2026-04-01T06:20:40Z,Ryan Rollins,Assists,6.5,fanduel,116,-154
+2026-04-01T06:20:40Z,Alperen Sengun,Points,19.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Kevin Durant,Points,24.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Amen Thompson,Points,16.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Ryan Rollins,Points,18.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Clint Capela,Points,3.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Gary Trent Jr,Points,10.5,fanduel,102,-136
+2026-04-01T06:20:40Z,Kyle Kuzma,Points,12.5,fanduel,102,-136
+2026-04-01T06:20:40Z,Ousmane Dieng,Points,10.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Myles Turner,Points,11.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Jabari Smith Jr,Points,16.5,fanduel,102,-136
+2026-04-01T06:20:40Z,Reed Sheppard,Points,14.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Tari Eason,Points,9.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Reed Sheppard,Points Assists,18.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Ousmane Dieng,Points Assists,14.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Alperen Sengun,Points Assists,25.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Kevin Durant,Points Assists,29.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Amen Thompson,Points Assists,21.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Ryan Rollins,Points Assists,25.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Kyle Kuzma,Points Assists,14.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Ousmane Dieng,Points Rebounds,15.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Kevin Durant,Points Rebounds,29.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Jabari Smith Jr,Points Rebounds,22.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Tari Eason,Points Rebounds,15.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Clint Capela,Points Rebounds,7.5,fanduel,-136,102
+2026-04-01T06:20:40Z,Kyle Kuzma,Points Rebounds,15.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Ryan Rollins,Points Rebounds,23.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Alperen Sengun,Points Rebounds,27.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Myles Turner,Points Rebounds,16.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Amen Thompson,Points Rebounds,24.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Reed Sheppard,Points Rebounds,17.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Kyle Kuzma,Points Rebounds Assists,18.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Amen Thompson,Points Rebounds Assists,29.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Reed Sheppard,Points Rebounds Assists,21.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Ousmane Dieng,Points Rebounds Assists,18.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Alperen Sengun,Points Rebounds Assists,33.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Kevin Durant,Points Rebounds Assists,34.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Ryan Rollins,Points Rebounds Assists,29.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Amen Thompson,Rebounds,7.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Ousmane Dieng,Rebounds,4.5,fanduel,114,-152
+2026-04-01T06:20:40Z,Ryan Rollins,Rebounds,4.5,fanduel,112,-148
+2026-04-01T06:20:40Z,Clint Capela,Rebounds,4.5,fanduel,102,-136
+2026-04-01T06:20:40Z,Myles Turner,Rebounds,4.5,fanduel,-136,102
+2026-04-01T06:20:40Z,Kevin Durant,Rebounds,4.5,fanduel,-158,118
+2026-04-01T06:20:40Z,Kyle Kuzma,Rebounds,3.5,fanduel,-152,114
+2026-04-01T06:20:40Z,Jabari Smith Jr,Rebounds,6.5,fanduel,-136,102
+2026-04-01T06:20:40Z,Tari Eason,Rebounds,5.5,fanduel,-144,108
+2026-04-01T06:20:40Z,Reed Sheppard,Rebounds,2.5,fanduel,-186,140
+2026-04-01T06:20:40Z,Alperen Sengun,Rebounds,8.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Reed Sheppard,Steals,1.5,fanduel,138,-186
+2026-04-01T06:20:40Z,Amen Thompson,Steals,1.5,fanduel,108,-144
+2026-04-01T06:20:40Z,Ryan Rollins,Threes,2.5,fanduel,118,-158
+2026-04-01T06:20:40Z,Myles Turner,Threes,1.5,fanduel,-132,100
+2026-04-01T06:20:40Z,Reed Sheppard,Threes,2.5,fanduel,-154,116
+2026-04-01T06:20:40Z,Kevin Durant,Threes,2.5,fanduel,124,-166
+2026-04-01T06:20:40Z,Tari Eason,Threes,1.5,fanduel,118,-158
+2026-04-01T06:20:40Z,Jabari Smith Jr,Threes,2.5,fanduel,140,-188
+2026-04-01T06:20:40Z,Gary Trent Jr,Threes,1.5,fanduel,-194,142
+2026-04-01T06:20:40Z,Ousmane Dieng,Threes,1.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Jalen Brunson,Assists,6.5,draftkings,-150,113
+2026-04-01T06:20:40Z,Josh Hart,Assists,4.5,draftkings,-119,-111
+2026-04-01T06:20:40Z,Mikal Bridges,Assists,3.5,draftkings,-125,-106
+2026-04-01T06:20:40Z,Jalen Brunson,Points,23.5,draftkings,-120,-106
+2026-04-01T06:20:40Z,Karl-Anthony Towns,Points,19.5,draftkings,-119,-107
+2026-04-01T06:20:40Z,G.G. Jackson,Points,15.5,draftkings,-121,-106
+2026-04-01T06:20:40Z,OG Anunoby,Points,15.5,draftkings,-106,-121
+2026-04-01T06:20:40Z,Mikal Bridges,Points,13.5,draftkings,-107,-119
+2026-04-01T06:20:40Z,Cedric Coward,Points,13.5,draftkings,-103,-123
+2026-04-01T06:20:40Z,Josh Hart,Points,13.5,draftkings,100,-127
+2026-04-01T06:20:40Z,Olivier-Maxence Prosper,Points,10.5,draftkings,-127,100
+2026-04-01T06:20:40Z,Jalen Brunson,Points Assists,31.5,draftkings,-105,-126
+2026-04-01T06:20:40Z,Josh Hart,Points Assists,17.5,draftkings,-123,-107
+2026-04-01T06:20:40Z,Mikal Bridges,Points Assists,17.5,draftkings,-102,-129
+2026-04-01T06:20:40Z,Karl-Anthony Towns,Points Rebounds,32.5,draftkings,-117,-113
+2026-04-01T06:20:40Z,Jalen Brunson,Points Rebounds,27.5,draftkings,-106,-124
+2026-04-01T06:20:40Z,Josh Hart,Points Rebounds,21.5,draftkings,-112,-118
+2026-04-01T06:20:40Z,G.G. Jackson,Points Rebounds,20.5,draftkings,-114,-115
+2026-04-01T06:20:40Z,OG Anunoby,Points Rebounds,20.5,draftkings,-114,-115
+2026-04-01T06:20:40Z,Cedric Coward,Points Rebounds,17.5,draftkings,-128,-103
+2026-04-01T06:20:40Z,Mikal Bridges,Points Rebounds,17.5,draftkings,-102,-129
+2026-04-01T06:20:40Z,Olivier-Maxence Prosper,Points Rebounds,15.5,draftkings,-105,-126
+2026-04-01T06:20:40Z,Jalen Brunson,Points Rebounds Assists,34.5,draftkings,-113,-116
+2026-04-01T06:20:40Z,Josh Hart,Points Rebounds Assists,26.5,draftkings,-107,-123
+2026-04-01T06:20:40Z,Mikal Bridges,Points Rebounds Assists,20.5,draftkings,-123,-107
+2026-04-01T06:20:40Z,Karl-Anthony Towns,Rebounds,12.5,draftkings,-122,-108
+2026-04-01T06:20:40Z,Josh Hart,Rebounds,8.5,draftkings,105,-138
+2026-04-01T06:20:40Z,OG Anunoby,Rebounds,5.5,draftkings,112,-147
+2026-04-01T06:20:40Z,Cedric Coward,Rebounds,4.5,draftkings,-128,-103
+2026-04-01T06:20:40Z,G.G. Jackson,Rebounds,4.5,draftkings,-119,-111
+2026-04-01T06:20:40Z,Olivier-Maxence Prosper,Rebounds,4.5,draftkings,119,-157
+2026-04-01T06:20:40Z,Mikal Bridges,Rebounds,3.5,draftkings,-111,-118
+2026-04-01T06:20:40Z,Jalen Brunson,Rebounds,3.5,draftkings,118,-155
+2026-04-01T06:20:40Z,OG Anunoby,Threes,2.5,draftkings,122,-162
+2026-04-01T06:20:40Z,Jalen Brunson,Threes,2.5,draftkings,132,-174
+2026-04-01T06:20:40Z,Mikal Bridges,Threes,1.5,draftkings,-150,113
+2026-04-01T06:20:40Z,G.G. Jackson,Threes,1.5,draftkings,-107,-123
+2026-04-01T06:20:40Z,Josh Hart,Threes,1.5,draftkings,-104,-126
+2026-04-01T06:20:40Z,Olivier-Maxence Prosper,Threes,1.5,draftkings,124,-163
+2026-04-01T06:20:40Z,Karl-Anthony Towns,Threes,1.5,draftkings,131,-173
+2026-04-01T06:20:40Z,Cedric Coward,Threes,1.5,draftkings,134,-177
+2026-04-01T06:20:40Z,Walter Clayton Jr.,Assists,4.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Cam Spencer,Assists,5.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Josh Hart,Assists,4.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Karl-Anthony Towns,Assists,2.5,fanduel,110,-146
+2026-04-01T06:20:40Z,OG Anunoby,Assists,2.5,fanduel,146,-198
+2026-04-01T06:20:40Z,Mikal Bridges,Assists,3.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Cedric Coward,Assists,2.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Jalen Brunson,Assists,6.5,fanduel,-146,110
+2026-04-01T06:20:40Z,Cam Spencer,Points,9.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Olivier-Maxence Prosper,Points,11.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Josh Hart,Points,13.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Walter Clayton Jr.,Points,8.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,OG Anunoby,Points,15.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Cedric Coward,Points,13.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Karl-Anthony Towns,Points,20.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,G.G. Jackson,Points,16.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Jalen Brunson,Points,24.5,fanduel,-122,-110
+2026-04-01T06:20:40Z,Jordan Clarkson,Points,8.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Mikal Bridges,Points,13.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Cedric Coward,Points Assists,15.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Josh Hart,Points Assists,18.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Cam Spencer,Points Assists,14.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Mikal Bridges,Points Assists,16.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Karl-Anthony Towns,Points Assists,22.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Jalen Brunson,Points Assists,31.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,OG Anunoby,Points Assists,17.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,G.G. Jackson,Points Rebounds,20.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Cedric Coward,Points Rebounds,18.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Josh Hart,Points Rebounds,21.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Cam Spencer,Points Rebounds,11.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Olivier-Maxence Prosper,Points Rebounds,15.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,Karl-Anthony Towns,Points Rebounds,32.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Jalen Brunson,Points Rebounds,28.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Mikal Bridges,Points Rebounds,16.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,OG Anunoby,Points Rebounds,20.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Cedric Coward,Points Rebounds Assists,20.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Jalen Brunson,Points Rebounds Assists,35.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Josh Hart,Points Rebounds Assists,26.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Cam Spencer,Points Rebounds Assists,17.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,OG Anunoby,Points Rebounds Assists,23.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Karl-Anthony Towns,Points Rebounds Assists,35.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Mikal Bridges,Points Rebounds Assists,20.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Josh Hart,Rebounds,7.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Cam Spencer,Rebounds,2.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Olivier-Maxence Prosper,Rebounds,4.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,OG Anunoby,Rebounds,5.5,fanduel,110,-146
+2026-04-01T06:20:40Z,Cedric Coward,Rebounds,4.5,fanduel,-136,102
+2026-04-01T06:20:40Z,Jalen Brunson,Rebounds,3.5,fanduel,128,-172
+2026-04-01T06:20:40Z,Mikal Bridges,Rebounds,3.5,fanduel,100,-132
+2026-04-01T06:20:40Z,G.G. Jackson,Rebounds,4.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Karl-Anthony Towns,Rebounds,12.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,OG Anunoby,Steals,1.5,fanduel,108,-144
+2026-04-01T06:20:40Z,Olivier-Maxence Prosper,Threes,1.5,fanduel,126,-168
+2026-04-01T06:20:40Z,OG Anunoby,Threes,2.5,fanduel,130,-174
+2026-04-01T06:20:40Z,Karl-Anthony Towns,Threes,1.5,fanduel,136,-182
+2026-04-01T06:20:40Z,Mikal Bridges,Threes,1.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Cam Spencer,Threes,1.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,G.G. Jackson,Threes,1.5,fanduel,108,-144
+2026-04-01T06:20:40Z,Cedric Coward,Threes,1.5,fanduel,138,-186
+2026-04-01T06:20:40Z,Jalen Brunson,Threes,2.5,fanduel,138,-186
+2026-04-01T06:20:40Z,Jamal Shead,Assists,6.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Scottie Barnes,Assists,7.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Nique Clifford,Assists,3.5,fanduel,122,-162
+2026-04-01T06:20:40Z,Malik Monk,Assists,3.5,fanduel,-172,128
+2026-04-01T06:20:40Z,DeMar DeRozan,Assists,4.5,fanduel,118,-158
+2026-04-01T06:20:40Z,R.J. Barrett,Assists,3.5,fanduel,134,-180
+2026-04-01T06:20:40Z,Devin Carter,Assists,3.5,fanduel,-172,128
+2026-04-01T06:20:40Z,Brandon Ingram,Assists,3.5,fanduel,110,-146
+2026-04-01T06:20:40Z,Scottie Barnes,Blocks,1.5,fanduel,126,-168
+2026-04-01T06:20:40Z,Scottie Barnes,Points,17.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Sandro Mamukelashvili,Points,14.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Brandon Ingram,Points,20.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,DeMar DeRozan,Points,18.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Jamal Shead,Points,7.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Dylan Cardwell,Points,4.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Devin Carter,Points,12.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Maxime Raynaud,Points,14.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Collin Murray-Boyles,Points,10.5,fanduel,102,-136
+2026-04-01T06:20:40Z,Ja'Kobe Walter,Points,9.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Malik Monk,Points,13.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Precious Achiuwa,Points,13.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,R.J. Barrett,Points,19.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Nique Clifford,Points,9.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Brandon Ingram,Points Assists,24.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,DeMar DeRozan,Points Assists,22.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Jamal Shead,Points Assists,14.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Nique Clifford,Points Assists,12.5,fanduel,-132,100
+2026-04-01T06:20:40Z,R.J. Barrett,Points Assists,22.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,Devin Carter,Points Assists,16.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Malik Monk,Points Assists,17.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,Scottie Barnes,Points Assists,24.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,R.J. Barrett,Points Rebounds,24.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Malik Monk,Points Rebounds,15.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Brandon Ingram,Points Rebounds,25.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Ja'Kobe Walter,Points Rebounds,13.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Scottie Barnes,Points Rebounds,24.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Nique Clifford,Points Rebounds,13.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Precious Achiuwa,Points Rebounds,21.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Dylan Cardwell,Points Rebounds,11.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Sandro Mamukelashvili,Points Rebounds,19.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,DeMar DeRozan,Points Rebounds,21.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Collin Murray-Boyles,Points Rebounds,16.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Devin Carter,Points Rebounds,16.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Maxime Raynaud,Points Rebounds,23.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Scottie Barnes,Points Rebounds Assists,31.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Nique Clifford,Points Rebounds Assists,17.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Brandon Ingram,Points Rebounds Assists,29.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,DeMar DeRozan,Points Rebounds Assists,25.5,fanduel,-114,-118
+2026-04-01T06:20:40Z,Devin Carter,Points Rebounds Assists,20.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,R.J. Barrett,Points Rebounds Assists,28.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Malik Monk,Points Rebounds Assists,20.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Ja'Kobe Walter,Rebounds,3.5,fanduel,110,-146
+2026-04-01T06:20:40Z,Dylan Cardwell,Rebounds,6.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Devin Carter,Rebounds,4.5,fanduel,128,-174
+2026-04-01T06:20:40Z,Scottie Barnes,Rebounds,6.5,fanduel,-132,100
+2026-04-01T06:20:40Z,DeMar DeRozan,Rebounds,2.5,fanduel,-172,128
+2026-04-01T06:20:40Z,Nique Clifford,Rebounds,4.5,fanduel,108,-144
+2026-04-01T06:20:40Z,Precious Achiuwa,Rebounds,7.5,fanduel,-144,108
+2026-04-01T06:20:40Z,Sandro Mamukelashvili,Rebounds,5.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Malik Monk,Rebounds,1.5,fanduel,-200,148
+2026-04-01T06:20:40Z,Maxime Raynaud,Rebounds,8.5,fanduel,-132,100
+2026-04-01T06:20:40Z,Collin Murray-Boyles,Rebounds,6.5,fanduel,116,-154
+2026-04-01T06:20:40Z,Brandon Ingram,Rebounds,4.5,fanduel,-158,118
+2026-04-01T06:20:40Z,R.J. Barrett,Rebounds,5.5,fanduel,110,-146
+2026-04-01T06:20:40Z,Scottie Barnes,Steals,1.5,fanduel,100,-132
+2026-04-01T06:20:40Z,R.J. Barrett,Threes,1.5,fanduel,-132,100
+2026-04-01T06:20:40Z,Sandro Mamukelashvili,Threes,1.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Nique Clifford,Threes,1.5,fanduel,178,-245
+2026-04-01T06:20:40Z,Devin Carter,Threes,1.5,fanduel,194,-270
+2026-04-01T06:20:40Z,Malik Monk,Threes,2.5,fanduel,148,-200
+2026-04-01T06:20:40Z,Ja'Kobe Walter,Threes,1.5,fanduel,-180,134
+2026-04-01T06:20:40Z,Brandon Ingram,Threes,1.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Pascal Siakam,Assists,3.5,fanduel,-138,104
+2026-04-01T06:20:40Z,Tre Jones,Assists,5.5,fanduel,108,-144
+2026-04-01T06:20:40Z,Josh Giddey,Assists,10.5,fanduel,-146,110
+2026-04-01T06:20:40Z,Matas Buzelis,Assists,1.5,fanduel,-200,148
+2026-04-01T06:20:40Z,Matas Buzelis,Blocks,1.5,fanduel,108,-144
+2026-04-01T06:20:40Z,Kam Jones,Points,8.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Tre Jones,Points,15.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Pascal Siakam,Points,24.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Josh Giddey,Points,18.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Isaac Okoro,Points,10.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Quenton Jackson,Points,13.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Collin Sexton,Points,16.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Matas Buzelis,Points,20.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Nick Richards,Points,9.5,fanduel,-132,100
+2026-04-01T06:20:40Z,Josh Giddey,Points Assists,30.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Matas Buzelis,Points Assists,23.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Tre Jones,Points Assists,20.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Pascal Siakam,Points Assists,28.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Matas Buzelis,Points Rebounds,28.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Tre Jones,Points Rebounds,18.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Nick Richards,Points Rebounds,18.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Pascal Siakam,Points Rebounds,30.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Isaac Okoro,Points Rebounds,13.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Josh Giddey,Points Rebounds,28.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Tre Jones,Points Rebounds Assists,24.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Matas Buzelis,Points Rebounds Assists,30.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Josh Giddey,Points Rebounds Assists,39.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Pascal Siakam,Points Rebounds Assists,34.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Isaac Okoro,Rebounds,3.5,fanduel,134,-182
+2026-04-01T06:20:40Z,Pascal Siakam,Rebounds,6.5,fanduel,118,-158
+2026-04-01T06:20:40Z,Matas Buzelis,Rebounds,7.5,fanduel,114,-152
+2026-04-01T06:20:40Z,Nick Richards,Rebounds,8.5,fanduel,118,-158
+2026-04-01T06:20:40Z,Josh Giddey,Rebounds,9.5,fanduel,102,-136
+2026-04-01T06:20:40Z,Tre Jones,Rebounds,3.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Josh Giddey,Steals,1.5,fanduel,138,-186
+2026-04-01T06:20:40Z,Tre Jones,Threes,0.5,fanduel,-230,168
+2026-04-01T06:20:40Z,Isaac Okoro,Threes,1.5,fanduel,146,-200
+2026-04-01T06:20:40Z,Matas Buzelis,Threes,2.5,fanduel,-154,116
+2026-04-01T06:20:40Z,Pascal Siakam,Threes,1.5,fanduel,118,-158
+2026-04-01T06:20:40Z,Josh Giddey,Threes,2.5,fanduel,130,-174
+2026-04-01T06:20:40Z,Josh Giddey,Assists,10.5,draftkings,-139,106
+2026-04-01T06:20:40Z,Tre Jones,Assists,5.5,draftkings,110,-145
+2026-04-01T06:20:40Z,Pascal Siakam,Assists,3.5,draftkings,-143,109
+2026-04-01T06:20:40Z,Pascal Siakam,Points,24.5,draftkings,-121,-105
+2026-04-01T06:20:40Z,Matas Buzelis,Points,20.5,draftkings,-117,-109
+2026-04-01T06:20:40Z,Josh Giddey,Points,19.5,draftkings,-102,-125
+2026-04-01T06:20:40Z,Tre Jones,Points,15.5,draftkings,-108,-118
+2026-04-01T06:20:40Z,Isaac Okoro,Points,10.5,draftkings,-110,-116
+2026-04-01T06:20:40Z,Nick Richards,Points,9.5,draftkings,-133,104
+2026-04-01T06:20:40Z,Josh Giddey,Points Assists,30.5,draftkings,-111,-119
+2026-04-01T06:20:40Z,Pascal Siakam,Points Assists,29.5,draftkings,-105,-125
+2026-04-01T06:20:40Z,Tre Jones,Points Assists,20.5,draftkings,-124,-106
+2026-04-01T06:20:40Z,Pascal Siakam,Points Rebounds,31.5,draftkings,-114,-116
+2026-04-01T06:20:40Z,Josh Giddey,Points Rebounds,28.5,draftkings,-109,-120
+2026-04-01T06:20:40Z,Matas Buzelis,Points Rebounds,27.5,draftkings,-119,-110
+2026-04-01T06:20:40Z,Tre Jones,Points Rebounds,19.5,draftkings,-112,-117
+2026-04-01T06:20:40Z,Nick Richards,Points Rebounds,17.5,draftkings,-130,-101
+2026-04-01T06:20:40Z,Isaac Okoro,Points Rebounds,13.5,draftkings,-126,-105
+2026-04-01T06:20:40Z,Josh Giddey,Points Rebounds Assists,39.5,draftkings,-115,-115
+2026-04-01T06:20:40Z,Pascal Siakam,Points Rebounds Assists,35.5,draftkings,-118,-111
+2026-04-01T06:20:40Z,Tre Jones,Points Rebounds Assists,24.5,draftkings,-122,-108
+2026-04-01T06:20:40Z,Josh Giddey,Rebounds,8.5,draftkings,-146,111
+2026-04-01T06:20:40Z,Nick Richards,Rebounds,7.5,draftkings,-129,-102
+2026-04-01T06:20:40Z,Matas Buzelis,Rebounds,6.5,draftkings,-136,103
+2026-04-01T06:20:40Z,Pascal Siakam,Rebounds,6.5,draftkings,-101,-131
+2026-04-01T06:20:40Z,Tre Jones,Rebounds,3.5,draftkings,-143,109
+2026-04-01T06:20:40Z,Isaac Okoro,Rebounds,3.5,draftkings,117,-154
+2026-04-01T06:20:40Z,Matas Buzelis,Threes,2.5,draftkings,-175,132
+2026-04-01T06:20:40Z,Josh Giddey,Threes,2.5,draftkings,114,-150
+2026-04-01T06:20:40Z,Isaac Okoro,Threes,1.5,draftkings,124,-164
+2026-04-01T06:20:40Z,Pascal Siakam,Threes,1.5,draftkings,134,-177
+2026-04-01T06:20:40Z,Nikola Jokic,Assists,11.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Jamal Murray,Assists,6.5,fanduel,-136,102
+2026-04-01T06:20:40Z,Cody Williams,Assists,2.5,fanduel,-162,122
+2026-04-01T06:20:40Z,Kyle Filipowski,Assists,2.5,fanduel,-180,134
+2026-04-01T06:20:40Z,Nikola Jokic,Blocks,0.5,fanduel,-174,130
+2026-04-01T06:20:40Z,Nikola Jokic,Points,24.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Jamal Murray,Points,24.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Cameron Johnson,Points,11.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Aaron Gordon,Points,15.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Cody Williams,Points,14.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Ace Bailey,Points,19.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Tim Hardaway Jr,Points,12.5,fanduel,-136,102
+2026-04-01T06:20:40Z,Bruce Brown,Points,7.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Peyton Watson,Points,12.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Brice Sensabaugh,Points,21.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Kyle Filipowski,Points,15.5,fanduel,102,-136
+2026-04-01T06:20:40Z,Christian Braun,Points,10.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Jamal Murray,Points Assists,31.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Cameron Johnson,Points Assists,13.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Brice Sensabaugh,Points Assists,23.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Aaron Gordon,Points Assists,18.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Christian Braun,Points Assists,12.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Nikola Jokic,Points Assists,36.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Cody Williams,Points Assists,17.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Ace Bailey,Points Assists,21.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Kyle Filipowski,Points Assists,18.5,fanduel,-104,-125
+2026-04-01T06:20:40Z,Nikola Jokic,Points Rebounds,38.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Jamal Murray,Points Rebounds,29.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Cameron Johnson,Points Rebounds,14.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Tim Hardaway Jr,Points Rebounds,15.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Aaron Gordon,Points Rebounds,21.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Christian Braun,Points Rebounds,14.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Peyton Watson,Points Rebounds,16.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Cody Williams,Points Rebounds,18.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Bruce Brown,Points Rebounds,10.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Brice Sensabaugh,Points Rebounds,24.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Ace Bailey,Points Rebounds,24.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Kyle Filipowski,Points Rebounds,22.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Jamal Murray,Points Rebounds Assists,36.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Cameron Johnson,Points Rebounds Assists,16.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Aaron Gordon,Points Rebounds Assists,23.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Christian Braun,Points Rebounds Assists,17.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Nikola Jokic,Points Rebounds Assists,49.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Brice Sensabaugh,Points Rebounds Assists,26.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Cody Williams,Points Rebounds Assists,21.5,fanduel,-120,-110
+2026-04-01T06:20:40Z,Ace Bailey,Points Rebounds Assists,26.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Kyle Filipowski,Points Rebounds Assists,25.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Kyle Filipowski,Rebounds,7.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Aaron Gordon,Rebounds,5.5,fanduel,-132,100
+2026-04-01T06:20:40Z,Christian Braun,Rebounds,4.5,fanduel,114,-152
+2026-04-01T06:20:40Z,Nikola Jokic,Rebounds,13.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Jamal Murray,Rebounds,4.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Cody Williams,Rebounds,3.5,fanduel,-144,108
+2026-04-01T06:20:40Z,Bruce Brown,Rebounds,3.5,fanduel,142,-192
+2026-04-01T06:20:40Z,Cameron Johnson,Rebounds,3.5,fanduel,134,-180
+2026-04-01T06:20:40Z,Peyton Watson,Rebounds,4.5,fanduel,128,-172
+2026-04-01T06:20:40Z,Ace Bailey,Rebounds,4.5,fanduel,-152,114
+2026-04-01T06:20:40Z,Brice Sensabaugh,Rebounds,3.5,fanduel,116,-154
+2026-04-01T06:20:40Z,Nikola Jokic,Steals,1.5,fanduel,116,-158
+2026-04-01T06:20:40Z,Jamal Murray,Steals,0.5,fanduel,-245,178
+2026-04-01T06:20:40Z,Aaron Gordon,Threes,1.5,fanduel,116,-154
+2026-04-01T06:20:40Z,Kyle Filipowski,Threes,1.5,fanduel,178,-245
+2026-04-01T06:20:40Z,Tim Hardaway Jr,Threes,2.5,fanduel,-132,100
+2026-04-01T06:20:40Z,Cameron Johnson,Threes,1.5,fanduel,-180,134
+2026-04-01T06:20:40Z,Nikola Jokic,Threes,1.5,fanduel,-138,104
+2026-04-01T06:20:40Z,Peyton Watson,Threes,1.5,fanduel,158,-215
+2026-04-01T06:20:40Z,Jamal Murray,Threes,3.5,fanduel,140,-188
+2026-04-01T06:20:40Z,Ace Bailey,Threes,2.5,fanduel,-132,100
+2026-04-01T06:20:40Z,Brice Sensabaugh,Threes,2.5,fanduel,-132,100
+2026-04-01T06:20:40Z,Pat Spencer,Assists,3.5,fanduel,-152,114
+2026-04-01T06:20:40Z,Brandin Podziemski,Assists,4.5,fanduel,-146,110
+2026-04-01T06:20:40Z,Draymond Green,Assists,6.5,fanduel,124,-166
+2026-04-01T06:20:40Z,Gui Santos,Assists,3.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,De'Aaron Fox,Assists,6.5,fanduel,118,-158
+2026-04-01T06:20:40Z,Victor Wembanyama,Assists,3.5,fanduel,110,-146
+2026-04-01T06:20:40Z,Stephon Castle,Assists,7.5,fanduel,-140,106
+2026-04-01T06:20:40Z,Dylan Harper,Assists,4.5,fanduel,114,-152
+2026-04-01T06:20:40Z,Will Richard,Points,9.5,fanduel,102,-136
+2026-04-01T06:20:40Z,Pat Spencer,Points,9.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Victor Wembanyama,Points,25.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Keldon Johnson,Points,12.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Dylan Harper,Points,12.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,De'Aaron Fox,Points,16.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Brandin Podziemski,Points,17.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Gui Santos,Points,16.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Julian Champagnie,Points,9.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Draymond Green,Points,9.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Stephon Castle,Points,17.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Devin Vassell,Points,12.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Brandin Podziemski,Points Assists,22.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,De'Aaron Fox,Points Assists,22.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,Devin Vassell,Points Assists,14.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Gui Santos,Points Assists,20.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Stephon Castle,Points Assists,25.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Draymond Green,Points Assists,15.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Victor Wembanyama,Points Assists,28.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Dylan Harper,Points Assists,16.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,Pat Spencer,Points Assists,13.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Draymond Green,Points Rebounds,15.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Julian Champagnie,Points Rebounds,15.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Will Richard,Points Rebounds,12.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Brandin Podziemski,Points Rebounds,23.5,fanduel,-125,-104
+2026-04-01T06:20:40Z,Stephon Castle,Points Rebounds,22.5,fanduel,-114,-114
+2026-04-01T06:20:40Z,Dylan Harper,Points Rebounds,16.5,fanduel,-104,-128
+2026-04-01T06:20:40Z,Victor Wembanyama,Points Rebounds,37.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,De'Aaron Fox,Points Rebounds,19.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Pat Spencer,Points Rebounds,12.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Gui Santos,Points Rebounds,22.5,fanduel,-102,-130
+2026-04-01T06:20:40Z,Keldon Johnson,Points Rebounds,17.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Devin Vassell,Points Rebounds,16.5,fanduel,-110,-120
+2026-04-01T06:20:40Z,Gui Santos,Points Rebounds Assists,25.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Draymond Green,Points Rebounds Assists,21.5,fanduel,-112,-118
+2026-04-01T06:20:40Z,Devin Vassell,Points Rebounds Assists,18.5,fanduel,-128,-104
+2026-04-01T06:20:40Z,Brandin Podziemski,Points Rebounds Assists,29.5,fanduel,-106,-125
+2026-04-01T06:20:40Z,Victor Wembanyama,Points Rebounds Assists,40.5,fanduel,-122,-108
+2026-04-01T06:20:40Z,Dylan Harper,Points Rebounds Assists,20.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Stephon Castle,Points Rebounds Assists,30.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Pat Spencer,Points Rebounds Assists,16.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,De'Aaron Fox,Points Rebounds Assists,26.5,fanduel,-108,-122
+2026-04-01T06:20:40Z,Gui Santos,Rebounds,5.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Will Richard,Rebounds,3.5,fanduel,116,-154
+2026-04-01T06:20:40Z,Brandin Podziemski,Rebounds,5.5,fanduel,-148,112
+2026-04-01T06:20:40Z,Pat Spencer,Rebounds,2.5,fanduel,-162,122
+2026-04-01T06:20:40Z,Draymond Green,Rebounds,5.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,De'Aaron Fox,Rebounds,3.5,fanduel,110,-146
+2026-04-01T06:20:40Z,Devin Vassell,Rebounds,3.5,fanduel,-152,114
+2026-04-01T06:20:40Z,Stephon Castle,Rebounds,4.5,fanduel,-162,122
+2026-04-01T06:20:40Z,Keldon Johnson,Rebounds,5.5,fanduel,124,-166
+2026-04-01T06:20:40Z,Victor Wembanyama,Rebounds,11.5,fanduel,-136,102
+2026-04-01T06:20:40Z,Julian Champagnie,Rebounds,4.5,fanduel,-158,118
+2026-04-01T06:20:40Z,Dylan Harper,Rebounds,3.5,fanduel,-118,-112
+2026-04-01T06:20:40Z,Pat Spencer,Threes,1.5,fanduel,178,-245
+2026-04-01T06:20:40Z,Gui Santos,Threes,1.5,fanduel,-200,148
+2026-04-01T06:20:40Z,Will Richard,Threes,1.5,fanduel,100,-132
+2026-04-01T06:20:40Z,Brandin Podziemski,Threes,2.5,fanduel,130,-174
+2026-04-01T06:20:40Z,Draymond Green,Threes,1.5,fanduel,-130,-102
+2026-04-01T06:20:40Z,Julian Champagnie,Threes,2.5,fanduel,134,-180
+2026-04-01T06:20:40Z,Victor Wembanyama,Threes,2.5,fanduel,154,-210
+2026-04-01T06:20:40Z,Keldon Johnson,Threes,1.5,fanduel,148,-200
+2026-04-01T06:20:40Z,Stephon Castle,Threes,1.5,fanduel,162,-220
+2026-04-01T06:20:40Z,Devin Vassell,Threes,2.5,fanduel,146,-198
+2026-04-01T06:20:40Z,De'Aaron Fox,Threes,1.5,fanduel,-125,-106
+2026-04-01T06:20:40Z,Stephon Castle,Assists,7.5,draftkings,-138,105
+2026-04-01T06:20:40Z,De'Aaron Fox,Assists,6.5,draftkings,115,-151
+2026-04-01T06:20:40Z,Draymond Green,Assists,5.5,draftkings,-150,114
+2026-04-01T06:20:40Z,Brandin Podziemski,Assists,4.5,draftkings,-132,100
+2026-04-01T06:20:40Z,Dylan Harper,Assists,3.5,draftkings,-151,115
+2026-04-01T06:20:40Z,Gui Santos,Assists,3.5,draftkings,-118,-111
+2026-04-01T06:20:40Z,Victor Wembanyama,Assists,3.5,draftkings,109,-143
+2026-04-01T06:20:40Z,Victor Wembanyama,Points,25.5,draftkings,-109,-117
+2026-04-01T06:20:40Z,Stephon Castle,Points,18.5,draftkings,-103,-123
+2026-04-01T06:20:40Z,Brandin Podziemski,Points,17.5,draftkings,-108,-118
+2026-04-01T06:20:40Z,De'Aaron Fox,Points,16.5,draftkings,-114,-112
+2026-04-01T06:20:40Z,Gui Santos,Points,16.5,draftkings,-108,-118
+2026-04-01T06:20:40Z,Dylan Harper,Points,12.5,draftkings,-111,-115
+2026-04-01T06:20:40Z,Devin Vassell,Points,12.5,draftkings,-104,-123
+2026-04-01T06:20:40Z,Julian Champagnie,Points,9.5,draftkings,-114,-112
+2026-04-01T06:20:40Z,Draymond Green,Points,9.5,draftkings,-104,-123
+2026-04-01T06:20:40Z,Will Richard,Points,9.5,draftkings,101,-128
+2026-04-01T06:20:40Z,Victor Wembanyama,Points Assists,28.5,draftkings,-121,-109
+2026-04-01T06:20:40Z,Stephon Castle,Points Assists,26.5,draftkings,-109,-121
+2026-04-01T06:20:40Z,De'Aaron Fox,Points Assists,22.5,draftkings,-125,-105
+2026-04-01T06:20:40Z,Brandin Podziemski,Points Assists,22.5,draftkings,-106,-124
+2026-04-01T06:20:40Z,Gui Santos,Points Assists,20.5,draftkings,-109,-121
+2026-04-01T06:20:40Z,Dylan Harper,Points Assists,16.5,draftkings,-117,-113
+2026-04-01T06:20:40Z,Draymond Green,Points Assists,15.5,draftkings,-113,-117
+2026-04-01T06:20:40Z,Victor Wembanyama,Points Rebounds,37.5,draftkings,-120,-110
+2026-04-01T06:20:40Z,Brandin Podziemski,Points Rebounds,23.5,draftkings,-113,-117
+2026-04-01T06:20:40Z,Stephon Castle,Points Rebounds,23.5,draftkings,-111,-118
+2026-04-01T06:20:40Z,Gui Santos,Points Rebounds,22.5,draftkings,-116,-113
+2026-04-01T06:20:40Z,De'Aaron Fox,Points Rebounds,20.5,draftkings,-103,-127
+2026-04-01T06:20:40Z,Devin Vassell,Points Rebounds,16.5,draftkings,-109,-121
+2026-04-01T06:20:40Z,Dylan Harper,Points Rebounds,15.5,draftkings,-126,-105
+2026-04-01T06:20:40Z,Draymond Green,Points Rebounds,14.5,draftkings,-125,-105
+2026-04-01T06:20:40Z,Julian Champagnie,Points Rebounds,14.5,draftkings,-124,-106
+2026-04-01T06:20:40Z,Will Richard,Points Rebounds,12.5,draftkings,-113,-117
+2026-04-01T06:20:40Z,Victor Wembanyama,Points Rebounds Assists,41.5,draftkings,-109,-121
+2026-04-01T06:20:40Z,Stephon Castle,Points Rebounds Assists,31.5,draftkings,-115,-115
+2026-04-01T06:20:40Z,Brandin Podziemski,Points Rebounds Assists,28.5,draftkings,-108,-122
+2026-04-01T06:20:40Z,De'Aaron Fox,Points Rebounds Assists,26.5,draftkings,-109,-120
+2026-04-01T06:20:40Z,Gui Santos,Points Rebounds Assists,26.5,draftkings,-108,-121
+2026-04-01T06:20:40Z,Draymond Green,Points Rebounds Assists,20.5,draftkings,-126,-104
+2026-04-01T06:20:40Z,Dylan Harper,Points Rebounds Assists,20.5,draftkings,-106,-124
+2026-04-01T06:20:40Z,Victor Wembanyama,Rebounds,12.5,draftkings,102,-135
+2026-04-01T06:20:40Z,Brandin Podziemski,Rebounds,5.5,draftkings,-139,106
+2026-04-01T06:20:40Z,Gui Santos,Rebounds,5.5,draftkings,-139,105
+2026-04-01T06:20:40Z,Draymond Green,Rebounds,5.5,draftkings,-101,-130
+2026-04-01T06:20:40Z,Stephon Castle,Rebounds,5.5,draftkings,114,-151
+2026-04-01T06:20:40Z,Julian Champagnie,Rebounds,4.5,draftkings,-160,121
+2026-04-01T06:20:40Z,Devin Vassell,Rebounds,3.5,draftkings,-147,111
+2026-04-01T06:20:40Z,Dylan Harper,Rebounds,3.5,draftkings,102,-134
+2026-04-01T06:20:40Z,De'Aaron Fox,Rebounds,3.5,draftkings,110,-145
+2026-04-01T06:20:40Z,Will Richard,Rebounds,3.5,draftkings,114,-150
+2026-04-01T06:20:40Z,Brandin Podziemski,Threes,2.5,draftkings,106,-140
+2026-04-01T06:20:40Z,Gui Santos,Threes,2.5,draftkings,125,-166
+2026-04-01T06:20:40Z,Julian Champagnie,Threes,2.5,draftkings,136,-180
+2026-04-01T06:20:40Z,Victor Wembanyama,Threes,2.5,draftkings,147,-195
+2026-04-01T06:20:40Z,Devin Vassell,Threes,1.5,draftkings,-191,144
+2026-04-01T06:20:40Z,Draymond Green,Threes,1.5,draftkings,-136,103
+2026-04-01T06:20:40Z,De'Aaron Fox,Threes,1.5,draftkings,-115,-115
+2026-04-01T06:20:40Z,Will Richard,Threes,1.5,draftkings,-115,-115
+2026-04-01T06:20:40Z,Stephon Castle,Threes,1.5,draftkings,138,-183
+2026-04-01T06:20:40Z,Dylan Harper,Threes,0.5,draftkings,-225,168

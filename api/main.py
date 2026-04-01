@@ -17,6 +17,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from pipeline.main import run_pipeline, edges_to_dict
+from collect_training_data import collect as collect_training_data
 
 # ---------------------------------------------------------------------------
 # State
@@ -48,11 +49,21 @@ def _refresh() -> None:
 scheduler = BackgroundScheduler()
 
 
+def _collect() -> None:
+    try:
+        n = collect_training_data()
+        print(f"[scheduler] Collected {n} training rows.")
+    except Exception as e:
+        print(f"[scheduler] Training data collection failed: {e}")
+
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     # Run once on startup, then every 30 minutes
     _refresh()
+    _collect()
     scheduler.add_job(_refresh, "interval", minutes=30)
+    scheduler.add_job(_collect, "interval", minutes=30)
     scheduler.start()
     yield
     scheduler.shutdown()
