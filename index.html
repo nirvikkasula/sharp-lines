@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sharp Lines</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a0f;
+    --surface: #111118;
+    --surface2: #18181f;
+    --border: #22222e;
+    --border2: #2e2e3d;
+    --text: #e8e8f0;
+    --text2: #9090a8;
+    --text3: #5a5a72;
+    --accent: #4fffb0;
+    --accent-dim: rgba(79,255,176,0.12);
+    --accent-dim2: rgba(79,255,176,0.06);
+    --red: #ff5f6d;
+    --red-dim: rgba(255,95,109,0.12);
+    --yellow: #ffd166;
+    --yellow-dim: rgba(255,209,102,0.1);
+    --mono: 'IBM Plex Mono', monospace;
+    --sans: 'IBM Plex Sans', sans-serif;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 14px;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* HEADER */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 0 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 56px;
+    position: sticky;
+    top: 0;
+    background: rgba(10,10,15,0.95);
+    backdrop-filter: blur(12px);
+    z-index: 100;
+  }
+
+  .logo {
+    font-family: var(--mono);
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    text-transform: uppercase;
+  }
+
+  .logo span {
+    color: var(--text3);
+    font-weight: 400;
+  }
+
+  .header-meta {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text3);
+  }
+
+  .status-dot {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    margin-right: 6px;
+    animation: pulse 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+  }
+
+  /* LAYOUT */
+  main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 32px;
+  }
+
+  /* HERO */
+  .hero {
+    margin-bottom: 40px;
+    opacity: 0;
+    animation: fadeUp 0.6s ease forwards;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .hero h1 {
+    font-family: var(--sans);
+    font-size: 28px;
+    font-weight: 300;
+    letter-spacing: -0.02em;
+    color: var(--text);
+    margin-bottom: 8px;
+  }
+
+  .hero h1 strong {
+    font-weight: 600;
+    color: var(--accent);
+  }
+
+  .hero p {
+    color: var(--text2);
+    font-size: 13px;
+    max-width: 600px;
+    line-height: 1.7;
+  }
+
+  .hero a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(79,255,176,0.3);
+  }
+
+  /* STATS ROW */
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin-bottom: 32px;
+    opacity: 0;
+    animation: fadeUp 0.6s ease 0.1s forwards;
+  }
+
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 16px 20px;
+  }
+
+  .stat-label {
+    font-family: var(--mono);
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text3);
+    margin-bottom: 6px;
+  }
+
+  .stat-value {
+    font-family: var(--mono);
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  .stat-value.green { color: var(--accent); }
+  .stat-value.yellow { color: var(--yellow); }
+
+  /* SECTION */
+  .section {
+    margin-bottom: 40px;
+    opacity: 0;
+    animation: fadeUp 0.6s ease 0.2s forwards;
+  }
+
+  .section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .section-title {
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--text3);
+  }
+
+  .section-title strong {
+    color: var(--text2);
+  }
+
+  /* EDGES TABLE */
+  .edges-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .edges-table th {
+    font-family: var(--mono);
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text3);
+    text-align: left;
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+    font-weight: 500;
+  }
+
+  .edges-table td {
+    padding: 12px 12px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: middle;
+  }
+
+  .edges-table tr:last-child td { border-bottom: none; }
+
+  .edges-table tr:hover td {
+    background: var(--surface2);
+  }
+
+  .player-name {
+    font-weight: 500;
+    font-size: 13px;
+    color: var(--text);
+  }
+
+  .prop-label {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text2);
+    margin-top: 2px;
+  }
+
+  .game-label {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text3);
+  }
+
+  .side-badge {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    padding: 3px 8px;
+    border-radius: 3px;
+    text-transform: uppercase;
+  }
+
+  .side-over {
+    background: var(--accent-dim);
+    color: var(--accent);
+    border: 1px solid rgba(79,255,176,0.2);
+  }
+
+  .side-under {
+    background: var(--red-dim);
+    color: var(--red);
+    border: 1px solid rgba(255,95,109,0.2);
+  }
+
+  .prob-display {
+    font-family: var(--mono);
+    font-size: 13px;
+  }
+
+  .prob-true {
+    color: var(--text);
+    font-weight: 500;
+  }
+
+  .prob-book {
+    color: var(--text3);
+    font-size: 11px;
+    margin-top: 2px;
+  }
+
+  .edge-bar-wrap {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .edge-bar {
+    width: 64px;
+    height: 4px;
+    background: var(--border2);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .edge-bar-fill {
+    height: 100%;
+    background: var(--accent);
+    border-radius: 2px;
+    transition: width 0.4s ease;
+  }
+
+  .edge-pct {
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--accent);
+    font-weight: 600;
+    min-width: 40px;
+  }
+
+  .conf-value {
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--yellow);
+  }
+
+  .book-name {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text2);
+    text-transform: capitalize;
+  }
+
+  /* CI display */
+  .ci-display {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text3);
+  }
+
+  /* WEIGHTS SECTION */
+  .weights-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+
+  .weight-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 14px 16px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .weight-card::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--accent);
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+
+  .weight-card:first-child::before { opacity: 1; }
+
+  .weight-book {
+    font-family: var(--mono);
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text);
+    text-transform: capitalize;
+    margin-bottom: 8px;
+  }
+
+  .weight-bar-wrap {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 6px;
+  }
+
+  .weight-bar {
+    flex: 1;
+    height: 3px;
+    background: var(--border2);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .weight-bar-fill {
+    height: 100%;
+    background: var(--accent);
+    border-radius: 2px;
+  }
+
+  .weight-pct {
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--accent);
+    font-weight: 600;
+    min-width: 36px;
+    text-align: right;
+  }
+
+  .weight-meta {
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--text3);
+  }
+
+  /* METHODOLOGY */
+  .methodology {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 24px;
+    opacity: 0;
+    animation: fadeUp 0.6s ease 0.3s forwards;
+  }
+
+  .methodology h3 {
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--text3);
+    margin-bottom: 16px;
+  }
+
+  .methodology p {
+    color: var(--text2);
+    font-size: 13px;
+    line-height: 1.8;
+    margin-bottom: 12px;
+  }
+
+  .methodology p:last-child { margin-bottom: 0; }
+
+  .math-block {
+    background: var(--bg);
+    border: 1px solid var(--border2);
+    border-radius: 4px;
+    padding: 14px 18px;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--accent);
+    margin: 14px 0;
+    line-height: 2;
+  }
+
+  /* EMPTY STATE */
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text3);
+    font-family: var(--mono);
+    font-size: 12px;
+  }
+
+  /* LOADING */
+  .loading {
+    text-align: center;
+    padding: 40px;
+    color: var(--text3);
+    font-family: var(--mono);
+    font-size: 12px;
+  }
+
+  .loading::after {
+    content: '';
+    animation: dots 1.2s steps(3, end) infinite;
+  }
+
+  @keyframes dots {
+    0%, 20% { content: '.'; }
+    40% { content: '..'; }
+    60%, 100% { content: '...'; }
+  }
+
+  /* TABS */
+  .tabs {
+    display: flex;
+    gap: 0;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 24px;
+  }
+
+  .tab {
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: var(--text3);
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    transition: color 0.15s, border-color 0.15s;
+  }
+
+  .tab:hover { color: var(--text2); }
+  .tab.active {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+  }
+
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+
+  /* FOOTER */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 20px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+  }
+
+  footer span {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--text3);
+  }
+
+  footer a {
+    color: var(--accent);
+    text-decoration: none;
+    font-family: var(--mono);
+    font-size: 10px;
+  }
+
+  @media (max-width: 768px) {
+    main { padding: 16px; }
+    .stats-row { grid-template-columns: repeat(2, 1fr); }
+    .weights-grid { grid-template-columns: repeat(2, 1fr); }
+    header { padding: 0 16px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">Sharp<span>/</span>Lines</div>
+  <div class="header-meta">
+    <span><span class="status-dot"></span>Live</span>
+    <span id="last-updated">Loading...</span>
+    <a href="https://github.com/yourusername/sharp-lines" style="color:var(--accent);text-decoration:none;font-size:11px;">GitHub ↗</a>
+  </div>
+</header>
+
+<main>
+  <div class="hero">
+    <h1>Minimum variance estimation<br>for <strong>NBA player props</strong></h1>
+    <p>
+      Most tools treat every sportsbook's line as equally informative. That's mathematically wrong.
+      This tool derives the optimal weighted consensus probability using the
+      <a href="#methodology">Gauss-Markov theorem</a>, calibrated against Pinnacle's closing line as ground truth.
+      Edges are flagged only when they exceed the model's confidence interval.
+    </p>
+  </div>
+
+  <div class="stats-row" id="stats-row">
+    <div class="stat-card">
+      <div class="stat-label">Live Edges</div>
+      <div class="stat-value green" id="stat-edges">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Avg Edge Magnitude</div>
+      <div class="stat-value" id="stat-avg-edge">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Books Tracked</div>
+      <div class="stat-value" id="stat-books">6</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Total Logged</div>
+      <div class="stat-value yellow" id="stat-logged">—</div>
+    </div>
+  </div>
+
+  <div class="tabs">
+    <div class="tab active" onclick="switchTab('edges')">Live Edges</div>
+    <div class="tab" onclick="switchTab('weights')">Book Weights</div>
+    <div class="tab" onclick="switchTab('methodology')">Methodology</div>
+  </div>
+
+  <!-- EDGES TAB -->
+  <div class="tab-content active" id="tab-edges">
+    <div id="edges-container">
+      <div class="loading">Fetching live lines</div>
+    </div>
+  </div>
+
+  <!-- WEIGHTS TAB -->
+  <div class="tab-content" id="tab-weights">
+    <div class="section" style="animation-delay:0s">
+      <div class="section-header">
+        <span class="section-title"><strong>Calibrated Book Weights</strong> — derived from historical error variance vs Pinnacle close</span>
+      </div>
+      <div class="weights-grid" id="weights-grid">
+        <div class="loading">Loading weights</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- METHODOLOGY TAB -->
+  <div class="tab-content" id="tab-methodology">
+    <div class="methodology" id="methodology">
+      <h3>Mathematical Methodology</h3>
+
+      <p>
+        Each sportsbook posts a line on a player prop. After removing the vig via proportional normalization,
+        this implies a probability p<sub>i</sub>. We model each book's line as:
+      </p>
+
+      <div class="math-block">
+        p_i = p* + ε_i
+        <br>
+        where E[ε_i] = 0,  Var(ε_i) = σ_i²,  Cov(ε_i, ε_j) = 0
+      </div>
+
+      <p>
+        We want a linear unbiased estimator p̂ = Σ w_i · p_i that minimizes variance, subject to Σ w_i = 1.
+        Setting up the Lagrangian and solving gives the optimal weights:
+      </p>
+
+      <div class="math-block">
+        w_i = σ_i⁻² / Σ_j σ_j⁻²
+        <br><br>
+        Achieved minimum variance:  Var(p̂) = 1 / Σ_j σ_j⁻²
+      </div>
+
+      <p>
+        This is the Gauss-Markov theorem: the precision-weighted estimator is the Best Linear Unbiased Estimator (BLUE).
+        Each book's σ_i² is estimated empirically as the mean squared error of its opening line against
+        Pinnacle's closing line, which the literature establishes as the industry benchmark for true probability
+        (Kaunitz, Zheng & Kreiner, 2017).
+      </p>
+
+      <p>
+        An edge is flagged when the best available line implies a probability that diverges from p̂ by more than
+        both a minimum threshold (3%) and the 95% confidence interval half-width — ensuring the signal clears
+        the noise floor of the estimation model.
+      </p>
+
+      <p style="color:var(--text3); font-size:12px; font-family:var(--mono);">
+        Limitation: the model assumes uncorrelated book errors. In practice, books correlate
+        because they all observe Pinnacle. Relaxing this requires modeling the correlation structure
+        explicitly — flagged as future work.
+        <br><br>
+        Full derivation: <a href="research/derivation.pdf" style="color:var(--accent)">research/derivation.pdf</a>
+      </p>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <span>Sharp Lines — NBA Props Edge Detection</span>
+  <a href="https://github.com/yourusername/sharp-lines">View source on GitHub ↗</a>
+</footer>
+
+<script>
+  // CONFIG — update this to your deployed backend URL
+  const API_BASE = window.location.hostname === 'localhost'
+    ? 'http://localhost:8000'
+    : 'https://your-backend.railway.app';
+
+  function switchTab(name) {
+    document.querySelectorAll('.tab').forEach((t, i) => {
+      const names = ['edges', 'weights', 'methodology'];
+      t.classList.toggle('active', names[i] === name);
+    });
+    document.querySelectorAll('.tab-content').forEach(c => {
+      c.classList.toggle('active', c.id === `tab-${name}`);
+    });
+  }
+
+  function fmt(n) { return (n * 100).toFixed(1) + '%'; }
+  function fmtEdge(n) { return '+' + (n * 100).toFixed(2) + '%'; }
+
+  async function loadEdges() {
+    const container = document.getElementById('edges-container');
+    try {
+      const res = await fetch(`${API_BASE}/edges`);
+      const data = await res.json();
+      const edges = data.edges || [];
+
+      document.getElementById('last-updated').textContent =
+        data.last_updated
+          ? 'Updated ' + new Date(data.last_updated).toLocaleTimeString()
+          : 'Just now';
+
+      document.getElementById('stat-edges').textContent = edges.length;
+
+      if (edges.length > 0) {
+        const avgEdge = edges.reduce((s, e) => s + e.edge_magnitude, 0) / edges.length;
+        document.getElementById('stat-avg-edge').textContent = fmtEdge(avgEdge);
+      } else {
+        document.getElementById('stat-avg-edge').textContent = '—';
+      }
+
+      if (edges.length === 0) {
+        container.innerHTML = `
+          <div class="empty-state">
+            No edges flagged at current lines.<br>
+            <span style="color:var(--text3);font-size:10px;margin-top:8px;display:block">
+              Model requires edge > 3% AND > CI half-width to flag
+            </span>
+          </div>`;
+        return;
+      }
+
+      const rows = edges.map(e => `
+        <tr>
+          <td>
+            <div class="player-name">${e.player}</div>
+            <div class="prop-label">${e.line_value} ${e.prop_type}</div>
+            <div class="game-label">${e.game}</div>
+          </td>
+          <td>
+            <span class="side-badge ${e.side === 'over' ? 'side-over' : 'side-under'}">
+              ${e.side}
+            </span>
+          </td>
+          <td>
+            <div class="prob-true">${fmt(e.true_prob)}</div>
+            <div class="ci-display">[${fmt(e.ci_lower)}, ${fmt(e.ci_upper)}]</div>
+          </td>
+          <td>
+            <div class="prob-display" style="color:var(--text2)">${fmt(e.book_implied_prob)}</div>
+          </td>
+          <td>
+            <div class="edge-bar-wrap">
+              <div class="edge-bar">
+                <div class="edge-bar-fill" style="width:${Math.min(100, e.edge_magnitude * 1000)}%"></div>
+              </div>
+              <span class="edge-pct">${fmtEdge(e.edge_magnitude)}</span>
+            </div>
+          </td>
+          <td><span class="conf-value">${e.confidence.toFixed(1)}×</span></td>
+          <td><span class="book-name">${e.best_book}</span></td>
+        </tr>
+      `).join('');
+
+      container.innerHTML = `
+        <table class="edges-table">
+          <thead>
+            <tr>
+              <th>Player / Prop</th>
+              <th>Side</th>
+              <th>True Prob (95% CI)</th>
+              <th>Book Implied</th>
+              <th>Edge</th>
+              <th>Confidence</th>
+              <th>Best Book</th>
+            </tr>
+          </thead>
+          <tbody>${rows}</tbody>
+        </table>`;
+    } catch (err) {
+      container.innerHTML = `
+        <div class="empty-state">
+          Could not connect to backend.<br>
+          <span style="font-size:10px;margin-top:6px;display:block">
+            Configure API_BASE in index.html to point to your deployed backend.
+          </span>
+        </div>`;
+    }
+  }
+
+  async function loadWeights() {
+    const grid = document.getElementById('weights-grid');
+    try {
+      const res = await fetch(`${API_BASE}/weights`);
+      const data = await res.json();
+      const books = data.books || [];
+      const maxWeight = Math.max(...books.map(b => b.weight));
+
+      grid.innerHTML = books.map(b => `
+        <div class="weight-card">
+          <div class="weight-book">${b.book}</div>
+          <div class="weight-bar-wrap">
+            <div class="weight-bar">
+              <div class="weight-bar-fill" style="width:${(b.weight / maxWeight * 100).toFixed(1)}%"></div>
+            </div>
+            <span class="weight-pct">${(b.weight * 100).toFixed(1)}%</span>
+          </div>
+          <div class="weight-meta">
+            <span>σ² = ${b.sigma_squared}</span>
+            <span>${b.relative_sharpness}% of precision</span>
+          </div>
+        </div>
+      `).join('');
+    } catch {
+      grid.innerHTML = `<div style="color:var(--text3);font-family:var(--mono);font-size:11px;padding:20px">Could not load weights from backend.</div>`;
+    }
+  }
+
+  async function loadLog() {
+    try {
+      const res = await fetch(`${API_BASE}/log`);
+      const data = await res.json();
+      document.getElementById('stat-logged').textContent = data.total || 0;
+    } catch {}
+  }
+
+  // Initial load
+  loadEdges();
+  loadWeights();
+  loadLog();
+
+  // Refresh every 5 minutes
+  setInterval(loadEdges, 5 * 60 * 1000);
+</script>
+</body>
+</html>
