@@ -18,6 +18,7 @@ import httpx
 from typing import Any
 
 BASE_URL = "https://api.the-odds-api.com/v4"
+SPORT = "basketball_nba"
 
 TRACKED_BOOKS = [
     "pinnacle",
@@ -53,7 +54,7 @@ def _get_api_key() -> str:
 
 def fetch_events(api_key: str) -> list[dict]:
     """Fetch today's NBA events."""
-    url = f"{BASE_URL}/sports/basketball_nba/events"
+    url = f"{BASE_URL}/sports/{SPORT}/events"
     params = {"apiKey": api_key}
     with httpx.Client(timeout=30) as client:
         resp = client.get(url, params=params)
@@ -63,7 +64,7 @@ def fetch_events(api_key: str) -> list[dict]:
 
 def fetch_event_props(api_key: str, event_id: str) -> dict[str, Any]:
     """Fetch player prop odds for a single event."""
-    url = f"{BASE_URL}/sports/basketball_nba/events/{event_id}/odds"
+    url = f"{BASE_URL}/sports/{SPORT}/events/{event_id}/odds"
     params = {
         "apiKey": api_key,
         "regions": "us",
@@ -89,20 +90,24 @@ def fetch_all_props() -> list[dict]:
     events = fetch_events(api_key)
 
     if not events:
-        print("No live NBA events found.")
+        print(f"[fetcher] sport={SPORT} — no events found.")
         return []
 
-    print(f"Found {len(events)} events. Fetching props...")
+    print(f"[fetcher] sport={SPORT} — {len(events)} events:")
     enriched = []
     for event in events:
         event_id = event["id"]
+        home = event.get("home_team", "?")
+        away = event.get("away_team", "?")
+        tip = event.get("commence_time", "?")
         try:
             props = fetch_event_props(api_key, event_id)
             enriched.append(props)
+            print(f"  OK  {away} @ {home}  ({tip})")
         except httpx.HTTPStatusError as e:
-            print(f"  Skipping event {event_id}: HTTP {e.response.status_code}")
+            print(f"  ERR {away} @ {home} — HTTP {e.response.status_code}")
         except Exception as e:
-            print(f"  Skipping event {event_id}: {e}")
+            print(f"  ERR {away} @ {home} — {e}")
 
-    print(f"Fetched props for {len(enriched)} events.")
+    print(f"[fetcher] fetched props for {len(enriched)}/{len(events)} events.")
     return enriched
