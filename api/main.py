@@ -59,11 +59,12 @@ def _collect() -> None:
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Run once on startup, then every 30 minutes
-    _refresh()
-    _collect()
-    scheduler.add_job(_refresh, "interval", minutes=30)
-    scheduler.add_job(_collect, "interval", minutes=30)
+    # Schedule both jobs to run immediately on startup (non-blocking),
+    # then repeat every 30 minutes. This lets the server become ready
+    # before the first API calls complete.
+    now = datetime.now(timezone.utc)
+    scheduler.add_job(_refresh, "interval", minutes=30, next_run_time=now)
+    scheduler.add_job(_collect, "interval", minutes=30, next_run_time=now)
     scheduler.start()
     yield
     scheduler.shutdown()
