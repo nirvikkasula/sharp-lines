@@ -3,10 +3,10 @@
   "build": {
     "builder": "NIXPACKS",
     "nixpacksPlan": {
-      "providers": ["python3"],
+      "providers": ["python"],
       "phases": {
         "install": {
-          "cmds": ["pip3 install -r requirements.txt"]
+          "cmds": ["pip install -r requirements.txt"]
         }
       }
     }
